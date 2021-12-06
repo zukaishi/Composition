@@ -4,6 +4,14 @@
 - https://user4.idiy.biz/home
 - -> select from this site.
 
+### 12/6/2021
+- What time did you get up?
+```
+I habit 5:25 get up every morning.
+for that reason, today got up 5:25 in this morning.
+
+```
+
 ### 12/4/2021
 - What is your zodiac sign? Do you believe in horoscopes? Why/Why not? 
 
